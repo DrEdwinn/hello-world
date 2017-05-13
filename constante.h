@@ -1,0 +1,6 @@
+#ifndef CONSTANTE_H_INCLUDED
+#define CONSTANTE_H_INCLUDED
+
+    #define LARGEUR_FENETRE 1900
+    #define HAUTEUR_FENETRE 1000
+#endif
